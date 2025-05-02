@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SasmithaHiram/Practice-Node-Back-End.git"
+  },
+  "author": "Sasmitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SasmithaHiram/Practice-Node-Back-End/issues"
+  },
+  "homepage": "https://github.com/SasmithaHiram/Practice-Node-Back-End#readme",
+  "description": ""
+}

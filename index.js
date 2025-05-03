@@ -1,18 +1,8 @@
-// import os from 'os';
-// import path from 'path';
-// import { fileURLToPath } from 'url';
+var cal = require("./calculate");
+console.log(cal);
 
-// console.log(os.platform());
-// console.log(os.version());
+// var totalSumValue = sum(1, 3);
+// console.log(totalSumValue);
 
-// const __filename = fileURLToPath(import.meta.url);
-// const __dirname = path.dirname(__filename);
-
-// // const os = require('os');
-
-// // console.log(os.platform());
-// // console.log(os.version());
-// // console.log(__dirname);
-// // console.log(__filename);
-
-console.log("Node");
+// var totalDevideValue = divide(6, 3);
+// console.log(totalDevideValue);

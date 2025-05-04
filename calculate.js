@@ -8,4 +8,4 @@ function divide(one, two) {
   return total;
 }
 
-module.exports = { sum: sum, divide: divide };
+module.exports = { sum, divide };
